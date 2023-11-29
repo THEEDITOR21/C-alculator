@@ -15,7 +15,7 @@ int main(){
 		char op;
 		system("color 1");
 		while(true){
-			system("color 2");
+			system("color 1");
 		cin >> num1;
 		cin >> op;
 		cin >> num2;
